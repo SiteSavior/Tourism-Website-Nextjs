@@ -46,9 +46,6 @@ export default function Home() {
         <div>
           <Tourculture />
         </div>
-        <div className='hidden'>
-          <Container />
-        </div>
         <div>
           <PopularTrips />
         </div>
