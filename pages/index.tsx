@@ -3,10 +3,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import Slider from '../components/slider'
 import Tourculture from '../components/tourculture'
-
-import Container from '../components/conatiner'
 import PopularTrips from '../components/populartrips'
-
 import Destination from '../components/destination'
 import Form from '../components/form'
 import { useState } from 'react'
